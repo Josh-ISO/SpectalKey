@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+signals.db
+signals.db-*
+recordings/
